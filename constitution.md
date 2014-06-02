@@ -861,7 +861,7 @@ and duties of his office.
 Amendment 26
 1. The right of citizens of the United States, who are eighteen years of age or
 older, to vote shall not be denied or abridged by the United States or by any
-State on account of age.
+State on account of age. 
 
 2. The Congress shall have power to enforce this article by appropriate
 legislation.
@@ -870,3 +870,6 @@ Amendment 27
 No law, varying the compensation for the services of the Senators and
 Representatives, shall take effect, until an election of Representatives shall
 have intervened.
+
+Amendment 28
+Major electons can be substituted for nationwide rock paper scissor competitions. Where challengers can throw either "Rock", represented as a fist. "Paper", represented as a flattened hand, and Scissors, represented by a sideways peace symbol with a pinching gesture. Rock defeats Scissors, Scissors defeats Paper and Paper defeats Rock. If two challengers roll the same hand, it is considered to be a do-over. House of Representative rules dictate best out of 3 determines a victor. Wherein Presidental competitions require a dominance of at least 2 wins over the challenger. There are to be no phantom throws, such as "water" or "hurricane". These throws will result in immediate disqualification.
